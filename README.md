@@ -1,4 +1,4 @@
-# Pantheon Decoupled Kit Next Drupal Starter hi
+# Pantheon Decoupled Kit Next Drupal Starter hi2
 
 There are two ways to get started with the Next Drupal Starter:
 
